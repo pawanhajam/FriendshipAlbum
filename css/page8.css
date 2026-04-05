@@ -1,0 +1,38 @@
+body{
+font-family: Arial;
+background: linear-gradient(120deg,#ff9a9e,#fad0c4);
+text-align:center;
+}
+
+.container{
+margin-top:60px;
+}
+
+.quiz{
+background:white;
+padding:30px;
+border-radius:10px;
+width:400px;
+margin:auto;
+}
+
+button{
+padding:10px 20px;
+background:#ff4d6d;
+color:white;
+border:none;
+border-radius:8px;
+cursor:pointer;
+margin-top:20px;
+}
+
+.secret{
+display:none;
+margin-top:40px;
+background:white;
+padding:20px;
+border-radius:10px;
+width:350px;
+margin-left:auto;
+margin-right:auto;
+}
